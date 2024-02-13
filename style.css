@@ -1,6 +1,7 @@
 h2{
     color:white; 
-    background: linear-gradient(rgba(0, 255, 242, 0.808), black)
+    background: linear-gradient(rgba(0, 255, 242, 0.808), black);
+    text-align: center;
 }
 a{
     color:yellowgreen;
@@ -11,6 +12,7 @@ body {
     background-size: cover;
     color:white;
     background-attachment: fixed;
+    text-align: center;
 }
 #fotoana{
     width: 100px;
