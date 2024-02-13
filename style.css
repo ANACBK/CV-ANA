@@ -1,7 +1,14 @@
 h2{
-    color:yellow; 
-    background-color: purple;
+    color:white; 
+    background: linear-gradient(rgba(0, 255, 242, 0.808), black)
 }
 a{
-    color:blue;
+    color:yellowgreen;
+}
+body {
+    background-image:url('./imagens/codigobinario.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    background-attachment: fixed;
 }
